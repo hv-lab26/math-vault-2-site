@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "ff6d89a9cf954e31",
+    "type": "split",
+    "children": [
+      {
+        "id": "d37e1ed290b01a23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69eda4463f8ce8cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "264fea2f87a8a64a",
+    "type": "split",
+    "children": [
+      {
+        "id": "39ffdc892fbac100",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91dd220da67d226a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "eb62dfc0518278e5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ff1be0258fc8b5bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5a2e1bdd0259d41a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f0f1df29456f229",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4188089606c00388",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2eb27bfe9c38613a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "092f0d1dcf971b2f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "80fea6322d1a3ca8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b7ce4002a4f4c6bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "69eda4463f8ce8cf",
+  "lastOpenFiles": [
+    "Content/Antiderivative/8 - Revision.md",
+    "Content/Antiderivative/7 - Trapezium Rule.md",
+    "Content/Antiderivative/6 - Average Value and Applications.md",
+    "Content/Antiderivative/5 - Area Under Graph.md",
+    "Content/Antiderivative/4 - Properties of Definite Integrals.md",
+    "Content/Antiderivative/3 - Definite Integrals.md",
+    "Content/Antiderivative/2 - Antiderivative.md",
+    "Content/Discrete Probability Distribution/8 - Continuous Distributions.md",
+    "Content/Discrete Probability Distribution/7 - Binomial Distribution.md",
+    "Content/Discrete Probability Distribution/6 - Fair Games.md",
+    "Content/Discrete Probability Distribution/5 - Variance.md",
+    "Content/Discrete Probability Distribution/4 - Expectation.md",
+    "Content/Discrete Probability Distribution/3 - Discrete Probability Distributions.md",
+    "Content/Discrete Probability Distribution/2 - Types of Data.md",
+    "Content/Discrete Probability Distribution/1 - Overview.md",
+    "Content/Probability/1 - Overview.md",
+    "Content/Probability/2 - Language of Probability in Mathematics.md",
+    "Content/Probability/3 - Laws of Probability.md",
+    "Content/Probability/4 - Venn Diagram.md",
+    "Content/Probability/5 - Tree Diagram.md",
+    "Content/Probability/6 - Karnaugh Diagram (Probability Table).md",
+    "Content/Probability/7 - Permutation.md",
+    "Welcome.md",
+    "Untitled.base",
+    "Content/Discrete Probability Distribution",
+    "Discrete Probability Distribution/7 - Binomial Distribution.md",
+    "Discrete Probability Distribution/8 - Continuous Distributions.md",
+    "Discrete Probability Distribution/4 - Expectation.md",
+    "Images/Venn Diagram - Union.png",
+    "Images/Venn Diagram - Intersection.png",
+    "Images/Language of Probability - Probability Scale.png",
+    "Images/Average Value - Drug Concentration.png",
+    "Images/Variance - Same Mean Different Spread.png",
+    "Images/Variance - Pizza.png",
+    "Images/Types of Data - Overview.png",
+    "Images/Types of Data - Number Line.png",
+    "Images/Trapezium Rule - Example.png",
+    "Images/Fair Games - Expected Profit.png",
+    "Discrete Probability Distribution",
+    "Content/Antiderivative",
+    "Antiderivative",
+    "Content/Probability",
+    "Content",
+    "Images"
+  ]
+}
