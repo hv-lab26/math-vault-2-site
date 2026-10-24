@@ -88,7 +88,7 @@ A Karnaugh diagram can also hold **numbers** of people or items (this is often c
 **d)**
 $$\Pr(A\mid B)=\frac{\Pr(A\cap B)}{\Pr(B)}=\frac{0.2}{0.5}=0.4$$
 
-**e)** $\Pr(A)\times\Pr(B)=0.6\times0.5=0.3\neq0.2=\Pr(A\cap B)$, so A and B are **not independent**.
+**e)** $\Pr(A)\times\Pr(B)=0.6\times0.5=0.3\mathrel{\char"2260}0.2=\Pr(A\cap B)$, so A and B are **not independent**.
 
 **Example 2:** 100 students were surveyed: 45 study Economics (E), 60 study Maths (M) and 25 study both.
 **a)** Show this information in a two-way table.
@@ -111,7 +111,7 @@ $$\Pr(E'\cap M')=\frac{20}{100}=0.2$$
 **c)** Stay inside the M column (60 students):
 $$\Pr(E\mid M)=\frac{25}{60}=\frac{5}{12}\approx0.417$$
 
-**d)** $\Pr(E)\times\Pr(M)=0.45\times0.6=0.27\neq0.25=\Pr(E\cap M)$, so E and M are **not independent**.
+**d)** $\Pr(E)\times\Pr(M)=0.45\times0.6=0.27\mathrel{\char"2260}0.25=\Pr(E\cap M)$, so E and M are **not independent**.
 
 ---
 
@@ -167,7 +167,7 @@ $$\Pr(E\mid M)=\frac{25}{60}=\frac{5}{12}\approx0.417$$
 > **c)**
 > $$\Pr(A\mid B)=\frac{\Pr(A\cap B)}{\Pr(B)}=\frac{0.2}{0.3}=\frac{2}{3}\approx0.667$$
 >
-> **d)** $\Pr(A)\times\Pr(B)=0.55\times0.3=0.165\neq0.2=\Pr(A\cap B)$, so A and B are **not independent**.
+> **d)** $\Pr(A)\times\Pr(B)=0.55\times0.3=0.165\mathrel{\char"2260}0.2=\Pr(A\cap B)$, so A and B are **not independent**.
 
 **Question 3:** A and B are **independent** events with Pr(A) = 0.4 and Pr(B) = 0.5.
 **a)** Complete the Karnaugh diagram.
@@ -206,7 +206,7 @@ $$\Pr(E\mid M)=\frac{25}{60}=\frac{5}{12}\approx0.417$$
 >
 > **c)** $\Pr(A\mid B)=\dfrac{0}{0.4}=0$. If B happened, A cannot have happened.
 >
-> **d)** $\Pr(A)\times\Pr(B)=0.35\times0.4=0.14\neq0=\Pr(A\cap B)$, so A and B are **not independent**.
+> **d)** $\Pr(A)\times\Pr(B)=0.35\times0.4=0.14\mathrel{\char"2260}0=\Pr(A\cap B)$, so A and B are **not independent**.
 > *Note: mutually exclusive is NOT the same as independent. Mutually exclusive events (with non-zero probabilities) are never independent, because one happening tells you the other did not.*
 
 **Question 5:** A café had 200 customers on Monday: 120 ordered coffee (C), 70 ordered cake (K) and 40 ordered both.

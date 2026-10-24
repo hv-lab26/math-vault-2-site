@@ -1,6 +1,6 @@
 
 ## Rules
-$$\int x^n\,dx=\frac{x^{n+1}}{n+1}+c,\quad n\neq-1$$
+$$\int x^n\,dx=\frac{x^{n+1}}{n+1}+c,\quad n\mathrel{\char"2260}-1$$
 $$\int (ax+b)^n\,dx=\frac{(ax+b)^{n+1}}{a(n+1)}+c$$
 
 When $n=-1$:

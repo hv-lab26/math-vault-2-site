@@ -154,7 +154,7 @@ Up: [[Content/Probability/1 - Overview]]
 > **b)**
 > $$\Pr(A\mid W)=\frac{\Pr(A\cap W)}{\Pr(W)}=\frac{2/15}{2/3}=\frac{1}{5}$$
 >
-> **c)** $\Pr(A)\times\Pr(W)=\dfrac{1}{3}\times\dfrac{2}{3}=\dfrac{2}{9}\neq\dfrac{2}{15}=\Pr(A\cap W)$, so they are **not independent**.
+> **c)** $\Pr(A)\times\Pr(W)=\dfrac{1}{3}\times\dfrac{2}{3}=\dfrac{2}{9}\mathrel{\char"2260}\dfrac{2}{15}=\Pr(A\cap W)$, so they are **not independent**.
 > *This makes sense: a white ball makes Box B (the "whiter" box) more likely.*
 
 ## Section C: Karnaugh diagrams & independence

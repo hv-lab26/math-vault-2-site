@@ -94,7 +94,7 @@ $$f(x)=\begin{cases}0.5, & -1\le x\le 1\\ 0, & \text{elsewhere}\end{cases}$$
 ![[Continuous - Ex 1a.png]]
 Condition 1: f(x) ≥ 0 ✓
 Condition 2:
-$$\int_{1}^{2}4x\,dx=\left[2x^2\right]_{1}^{2}=8-2=6\neq1$$
+$$\int_{1}^{2}4x\,dx=\left[2x^2\right]_{1}^{2}=8-2=6\mathrel{\char"2260}1$$
 → **NOT a pdf**
 
 **b)** Written in full: f(x) = 0 for x < 0, 10x − 4 for 0 ≤ x ≤ 1, and 0 for x > 1.
