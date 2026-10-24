@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Alex Nguyen's Maths Unit 1 Vault
+  pageTitle: Alex Nguyen's Maths Unit 2 Vault
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: hv-lab26.github.io/math-vault-1-site
+  baseUrl: hv-lab26.github.io/math-vault-2-site
   ignorePatterns:
     - private
     - templates
