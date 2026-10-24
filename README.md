@@ -4,7 +4,7 @@
 
 This repo builds Maths vault 2 (my Obsidian notes for **Probability, Integration, Distributions, and Fundamental Statistics**) into a browsable website using [Quartz](https://quartz.jzhao.xyz/), and deploys it to GitHub Pages automatically on every push.
 
-The vault is still currently on working and not fully complete yet. It will continue to be updated, typically on a monthly basis.
+**This vault is still currently on working and not fully complete yet. It will continue to be updated, typically on a monthly basis.**
 
 # Vault strucutre (as of now)
 
