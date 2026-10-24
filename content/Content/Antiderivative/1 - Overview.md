@@ -9,7 +9,7 @@
 ## Formula sheet
 | Function             | Antiderivative                       |
 | -------------------- | ------------------------------------ |
-| $x^n,\ n\neq-1$      | $\dfrac{x^{n+1}}{n+1}+c$             |
+| $x^n,\ n \text{≠} -1$      | $\dfrac{x^{n+1}}{n+1}+c$             |
 | $(ax+b)^n,\ n\neq-1$ | $\dfrac{(ax+b)^{n+1}}{a(n+1)}+c$     |
 | $\dfrac{1}{x}$       | $\ln\lvert x\rvert+c$                |
 | $\dfrac{1}{ax+b}$    | $\dfrac{1}{a}\ln\lvert ax+b\rvert+c$ |
