@@ -4,9 +4,7 @@
 
 This repo builds Maths vault 2 (my Obsidian notes for **Probability, Integration, Distributions, and Fundamental Statistics**) into a browsable website using [Quartz](https://quartz.jzhao.xyz/), and deploys it to GitHub Pages automatically on every push.
 
-**This vault is still currently on working and not fully complete yet. It will continue to be updated, typically on a monthly basis.**
-
-# Vault strucutre (as of now)
+# Vault strucutre 
 
 ```
 Content
@@ -40,6 +38,20 @@ Content
 	├── Fair Games
 	├── Binomial Distribution
 	├── Continuous Distributions
+	
+├── Statistics
+	├── Overview
+	├── Types of Statistical Data
+	├── Measures of Centre and Spread
+	├── Boxplots and Outliers
+	├── Stem-and-Leaf Plots and Histograms
+	├── Comparing Distributions
+	├── Bivariate Data and Scatterplots
+	├── Least Squares Regression
+	├── Prediction - Interpolation and Extrapolation
+	├── Residual Analysis
+	├── Linearising Data
+	├── Revision
 ├── 
 ├── Images
 ```
