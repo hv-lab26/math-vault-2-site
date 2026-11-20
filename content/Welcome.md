@@ -5,6 +5,8 @@ This is my maths vault 2, where I systematise mathematical concepts, solutions, 
 
 *Heads-up: I initially intended to take these notes for my own so some exercises may lack the question as I usually just wrote down my workings and not the questions. Sorry for any inconvenience.*
 
+I highly recommend you should have a TI calculator to help you with statsitics.
+
 ---
 
 # Vault Structure
@@ -50,12 +52,12 @@ Content
 # Contact: 
 - Email: havy.16708@gmail.com
 - Discord: alexng.167
-*All feedbacks are appreciated.*
+*Any feedback is appreciated.*
 
 ---
 
 # Additional information 
-My notes-taking apps: Obsidian, Goodnotes
+My notes-taking apps: Obsidian, Goodnotes, TeX Studio
 My calculators: **TI 84 Plus CE** and **Casio fx-580X**
 Other apps/websites: Desmos, TeX Live Utility, TI Connect CE
 *I recommend using Casio FX-880BTG Plus rather than Casio fx-580VNX for a scientific calculator, however.*
