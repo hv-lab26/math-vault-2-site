@@ -19,6 +19,7 @@ describe, model, and predict with the relationship between two variables
 ## Formula sheet
 | Rule | Formula |
 |---|---|
+| $y=ax+b$ => y is the dependent variable, x is the independent variable |
 | Mean | $\bar{x} = \dfrac{\sum x}{n}$ |
 | Population standard deviation | $\sigma_x = \sqrt{\dfrac{\sum(x-\bar{x})^2}{n}}$ |
 | Sample standard deviation | $s_x = \sqrt{\dfrac{\sum(x-\bar{x})^2}{n-1}}$ |
