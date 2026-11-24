@@ -52,7 +52,6 @@ Content
 	├── Residual Analysis
 	├── Linearising Data
 	├── Revision
-├── 
 ├── Images
 ```
 
